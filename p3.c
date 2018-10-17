@@ -1,4 +1,4 @@
-/* P1.c */
+/* P3.c */
 /* Melissa de Albuquerque Barbosa*/
 /* 11811EBI030 */
 
